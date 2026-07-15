@@ -1,8 +1,8 @@
 # RISE
 
-[RISE](https://riseproject.dev/) (RISC-V Software Ecosystem) is a group under the Linux Foundation EU whose goal is to advance the status of the Software Ecosystem for RISC-V.
+[RISE](https://riseproject.dev) is a collaborative, industry-led initiative under the Linux Foundation that accelerates open-source software development for the RISC-V architecture.
 
-This GitHub organization contains many of the projects we are doing:
+This GitHub organization contains many of the work we are doing:
 - [RISE RISC-V Runners](https://github.com/riseproject-dev/riscv-runner): free GitHub runners on real RISC-V hardware
 - [RISE Python Package Index](https://github.com/riseproject-dev/python-wheels/): pre-built Python wheels for most commonly used Python packages
 - [RISC-V Optimization Guide](https://gitlab.com/riseproject/riscv-optimization-guide) (Hosted on Gitlab): specific actionable optimization recommendations for software developers writing code for RISC-V application processors
