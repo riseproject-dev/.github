@@ -11,11 +11,63 @@ This GitHub organization contains many of the work we are doing:
 ## Working Groups
 
 Follow on the work we are doing as part of our working groups:
-* Enablement and Optimization WG
-  * [Compilers & Toolchains](https://github.com/orgs/riseproject-dev/projects/12)
-  * [System Libraries](https://github.com/orgs/riseproject-dev/projects/11)
-  * [Language Runtimes](https://github.com/orgs/riseproject-dev/projects/8)
-* Platform WG
-* Developer Tooling WG
-* AI/ML
-* MCU Software WG
+<table>
+<thead>
+  <tr>
+    <th>Working Group</th>
+    <th>Repository</th>
+    <th>Project Board</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Enablement and Optimization</td>
+    <td><a href="https://github.com/riseproject-dev/system-libraries-wg">System Libraries</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/11">board</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riseproject-dev/compilers-and-toolchains-wg">Compilers &amp; Toolchains</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/12">board</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riseproject-dev/language-runtimes-wg">Language Runtimes</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/8">board</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Developer Tooling</td>
+    <td><a href="https://github.com/riseproject-dev/developer-infrastructure-wg">Developer Infrastructure</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/16">board</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riseproject-dev/simulator-emulator-wg">Simulator / Emulator</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/19">board</a></td>
+  </tr>
+  <tr>
+    <td rowspan="4">Platform</td>
+    <td><a href="https://github.com/riseproject-dev/firmware-wg">Firmware</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/13">board</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riseproject-dev/distro-integration-wg">Distro Integration</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/15">board</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riseproject-dev/kernel-and-virtualization-wg">Kernel &amp; Virtualization</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/14">board</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riseproject-dev/security-software-wg">Security Software</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/20">board</a></td>
+  </tr>
+  <tr>
+    <td>AI/ML</td>
+    <td><a href="https://github.com/riseproject-dev/ai-ml-wg">AI/ML</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/17">board</a></td>
+  </tr>
+  <tr>
+    <td>Microcontroller Software</td>
+    <td><a href="https://github.com/riseproject-dev/microcontroller-software-wg">Microcontroller Software</a></td>
+    <td><a href="https://github.com/orgs/riseproject-dev/projects/18">board</a></td>
+  </tr>
+</tbody>
+</table>
